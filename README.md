@@ -1,4 +1,4 @@
-C - Simple ShellO
+C - Simple Shell.
 
 
 
